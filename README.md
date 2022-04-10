@@ -1,5 +1,5 @@
 # TAEJUNG API V2
-taejung apiv 2
+taejung api v2
 
 # BASE_URL
 API BASE URL 
